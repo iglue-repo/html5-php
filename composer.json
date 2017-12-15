@@ -1,5 +1,8 @@
 {
-    "name": "masterminds/html5",
+    "name": "masterminds@iglue/html5",
+    "replace": {
+        "masterminds/html5": "2.3.0"
+    },
     "description": "An HTML5 parser and serializer.",
     "type": "library",
     "homepage": "http://masterminds.github.io/html5-php",
